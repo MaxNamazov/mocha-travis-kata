@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db675f79-fb93-40d1-8729-383591a3db10" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TDD.iws" />
@@ -29,16 +29,25 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="27" selection-start="309" selection-end="309" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="442">
+            <state line="24" column="19" selection-start="554" selection-end="554" vertical-scroll-proportion="-11.846154" vertical-offset="100" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="129" selection-start="299" selection-end="299" vertical-scroll-proportion="0.13858695" vertical-offset="0" max-vertical-offset="368">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="9" selection-start="36" selection-end="36" vertical-scroll-proportion="0.092391305" vertical-offset="0" max-vertical-offset="368">
+            <state line="2" column="9" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
               <folding />
             </state>
           </provider>
@@ -62,8 +71,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -203,7 +213,11 @@
       <created>1390044834784</created>
       <updated>1390044834784</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="testling">
+      <created>1390047032459</created>
+      <updated>1390047032459</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -258,22 +272,30 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="testling" />
+    <option name="LAST_COMMIT_MESSAGE" value="testling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="27" selection-start="309" selection-end="309" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="442">
+        <state line="2" column="9" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="9" selection-start="36" selection-end="36" vertical-scroll-proportion="0.092391305" vertical-offset="0" max-vertical-offset="368">
+        <state line="24" column="19" selection-start="554" selection-end="554" vertical-scroll-proportion="-11.846154" vertical-offset="100" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="129" selection-start="299" selection-end="299" vertical-scroll-proportion="0.13858695" vertical-offset="0" max-vertical-offset="368">
           <folding />
         </state>
       </provider>
